@@ -1,4 +1,4 @@
-  # Atliq Hardware Database Analysis
+  # Atliq Hardware Finance & Supply Chain Analysis
 
 ## Project Overview
 
